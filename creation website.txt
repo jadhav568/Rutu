@@ -1,0 +1,19 @@
+<!doctype html> 
+<html>
+<head>
+<style>
+  h1{color:red;font-family:"Algerian";text-decoration:overline}
+  b,u,i{color:blue;font-family:"Algerian";font-size:30px}
+</style>
+</head>
+<body>
+<h1>WELCOME TO RAJENDRA JR COLLEGE</h1>
+<p align=left>Rajendra Jr College Khandala is one of the reputed college in maharashtra.<B>Rajendra jr College</B>is located at the khandala district satara on NH4 
+highway.special thing about Rajendra jr College is<u>Agri subject</U>.Animal <img src="file:///C:/Users/chavan/Pictures/sample%20picture/download.jpg" height=400 width=400>Science,
+crop production,Crop science subjectare available here.Founder of college is<i>Hon.gadhave sir</i>.Principal of rajendra Jr college is Solaskar Sir.</p>
+<p>Rajendra Jr College Khandala also have special subject computer science,electronic science,information technology.rajendra Jr college have Computer lab of 
+about 100computer which most largest computer lab in rural area in maharashtra.</p> <br>
+<a href="feedback.html">link to  feedback form</a>
+</body>
+</html> 
+   
